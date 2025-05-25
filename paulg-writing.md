@@ -1,3 +1,5 @@
+[This meta prompt was generated using Paul Graham's writing]: # ([This comment will be hidden](https://paulgraham.com/goodwriting.html ))
+
 ### Task & Goal:
 [Clearly and concisely state the primary task or objective. What problem are you solving? What is the desired outcome?]
 
